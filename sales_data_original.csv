@@ -1,4 +1,6 @@
 ORDERNUMBER,ORDERLINENUMBER,PRICEEACH,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE,QUANTITYORDERED,SALES
+10107,2,95.7,2/24/2003 0:00,Shipped,1,2,2003,Motorcycles,95,S10_1678,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Small,30,2871
+10121,5,81.35,5/7/2003 0:00,Shipped,2,5,2003,Motorcycles,95,S10_1678,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small,34,2765.9
 10134,2,94.74,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,95,S10_1678,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium,41,3884.34
 10145,6,83.26,8/25/2003 0:00,Shipped,3,8,2003,Motorcycles,95,S10_1678,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Medium,45,3746.7
 10159,14,100,10/10/2003 0:00,Shipped,4,10,2003,Motorcycles,95,S10_1678,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Medium,49,5205.27
@@ -16,6 +18,7 @@ ORDERNUMBER,ORDERLINENUMBER,PRICEEACH,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,P
 10299,9,100,9/30/2004 0:00,Shipped,3,9,2004,Motorcycles,95,S10_1678,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Small,23,2597.39
 10309,5,100,10/15/2004 0:00,Shipped,4,10,2004,Motorcycles,95,S10_1678,Baane Mini Imports,07-98 9555,Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA,Bergulfsen,Jonas,Medium,41,4394.38
 10318,1,94.74,11/2/2004 0:00,Shipped,4,11,2004,Motorcycles,95,S10_1678,Diecast Classics Inc.,2155551555,7586 Pompton St.,,Allentown,PA,70267,USA,NA,Yu,Kyung,Medium,46,4358.04
+10329,1,100,11/15/2004 0:00,Shipped,4,11,2004,Motorcycles,95,S10_1678,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium,42,4396.14
 10341,9,100,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,95,S10_1678,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Large,41,7737.93
 10361,13,72.55,12/17/2004 0:00,Shipped,4,12,2004,Motorcycles,95,S10_1678,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small,20,1451
 10375,12,34.91,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,95,S10_1678,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small,21,733.11
@@ -76,6 +79,7 @@ ORDERNUMBER,ORDERLINENUMBER,PRICEEACH,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,P
 10388,5,44.51,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,118,S10_2016,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,NA,Benitez,Violeta,Small,50,2225.5
 10402,1,100,4/7/2005 0:00,Shipped,2,4,2005,Motorcycles,118,S10_2016,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,45,5833.8
 10417,5,100,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,118,S10_2016,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,45,5887.35
+10107,4,100,2/24/2003 0:00,Shipped,1,2,2003,Motorcycles,193,S10_4698,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium,27,6065.55
 10120,2,100,4/29/2003 0:00,Shipped,2,4,2003,Motorcycles,193,S10_4698,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Large,46,9264.86
 10134,4,100,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,193,S10_4698,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Large,31,7023.98
 10145,8,100,8/25/2003 0:00,Shipped,3,8,2003,Motorcycles,193,S10_4698,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Medium,33,5176.38
@@ -94,6 +98,7 @@ ORDERNUMBER,ORDERLINENUMBER,PRICEEACH,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,P
 10299,11,100,9/30/2004 0:00,Shipped,3,9,2004,Motorcycles,193,S10_4698,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Medium,29,6683.34
 10308,1,100,10/15/2004 0:00,Shipped,4,10,2004,Motorcycles,193,S10_4698,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,24067,USA,NA,Frick,Steve,Medium,20,4570.4
 10318,3,100,11/2/2004 0:00,Shipped,4,11,2004,Motorcycles,193,S10_4698,Diecast Classics Inc.,2155551555,7586 Pompton St.,,Allentown,PA,70267,USA,NA,Yu,Kyung,Large,37,7667.14
+10329,3,100,11/15/2004 0:00,Shipped,4,11,2004,Motorcycles,193,S10_4698,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium,26,5868.2
 10339,3,76.67,11/23/2004 0:00,Shipped,4,11,2004,Motorcycles,193,S10_4698,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Small,39,2990.13
 10362,4,100,1/5/2005 0:00,Shipped,1,1,2005,Motorcycles,193,S10_4698,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Medium,22,3664.1
 10374,1,100,2/2/2005 0:00,Shipped,1,2,2005,Motorcycles,193,S10_4698,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Medium,22,3834.38
@@ -111,6 +116,7 @@ ORDERNUMBER,ORDERLINENUMBER,PRICEEACH,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,P
 10197,6,100,11/26/2003 0:00,Shipped,4,11,2003,Classic Cars,136,S10_4757,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium,45,5324.4
 10209,8,100,1/9/2004 0:00,Shipped,1,1,2004,Classic Cars,136,S10_4757,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,NA,Chandler,Michael,Medium,39,5197.92
 10222,12,100,2/19/2004 0:00,Shipped,1,2,2004,Classic Cars,136,S10_4757,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Medium,49,5997.6
+10248,3,100,5/7/2004 0:00,Cancelled,2,5,2004,Classic Cars,136,S10_4757,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Small,20,2910.4
 10261,1,100,6/17/2004 0:00,Shipped,2,6,2004,Classic Cars,136,S10_4757,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Medium,27,3378.24
 10273,4,100,7/21/2004 0:00,Shipped,3,7,2004,Classic Cars,136,S10_4757,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Medium,30,3508.8
 10283,6,100,8/20/2004 0:00,Shipped,3,8,2004,Classic Cars,136,S10_4757,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Small,25,2992
@@ -2816,22 +2822,3 @@ ORDERNUMBER,ORDERLINENUMBER,PRICEEACH,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,P
 10386,4,100,3/1/2005 0:00,Resolved,1,3,2005,Ships,54,S72_3212,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,43,5417.57
 10397,1,62.24,3/28/2005 0:00,Shipped,1,3,2005,Ships,54,S72_3212,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small,34,2116.16
 10414,9,65.52,5/6/2005 0:00,On Hold,2,5,2005,Ships,54,S72_3212,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Medium,47,3079.44
-10465,2,,1/31/2005 0:00,Shipped,3,7,2003,Motorcycles,95,S10_1678,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium,,
-10482,6,,3/1/2005 0:00,Shipped,3,8,2003,Motorcycles,95,S10_1678,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Medium,,
-10499,14,,3/28/2005 0:00,Shipped,4,10,2003,Motorcycles,95,S10_1678,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Medium,,
-10516,1,,5/6/2005 0:00,Shipped,4,10,2003,Motorcycles,95,S10_1678,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Medium,,
-10533,9,,11/21/2004 0:00,Shipped,4,11,2003,Motorcycles,95,S10_1678,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small,,
-10550,1,,12/2/2004 0:00,Shipped,4,11,2003,Motorcycles,95,S10_1678,Herkku Gifts,+47 2267 3215,"Drammen 121, PR 744 Sentrum",,Bergen,,N 5804,Norway,EMEA,Oeztan,Veysel,Medium,,
-10567,2,,1/31/2005 0:00,Shipped,4,12,2003,Motorcycles,95,S10_1678,Mini Wheels Co.,6505555787,5557 North Pendale Street,,San Francisco,CA,,USA,NA,Murphy,Julie,Small,,
-10584,14,,3/1/2005 0:00,Shipped,1,1,2004,Motorcycles,95,S10_1678,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,,
-10601,1,,3/28/2005 0:00,Shipped,1,2,2004,Motorcycles,95,S10_1678,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,,
-10618,7,,5/6/2005 0:00,Shipped,2,4,2004,Motorcycles,95,S10_1678,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small,,
-10635,2,,11/21/2004 0:00,Shipped,2,5,2004,Motorcycles,95,S10_1678,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Medium,,
-10652,2,,12/2/2004 0:00,Shipped,2,6,2004,Motorcycles,95,S10_1678,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,NA,King,Julie,Medium,,
-10669,1,,1/31/2005 0:00,Shipped,3,7,2004,Motorcycles,95,S10_1678,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium,,
-10686,6,,3/1/2005 0:00,Shipped,3,8,2004,Motorcycles,95,S10_1678,Marta's Replicas Co.,6175558555,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Medium,,
-10703,9,,3/28/2005 0:00,Shipped,3,9,2004,Motorcycles,95,S10_1678,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Small,,
-10720,5,,5/6/2005 0:00,Shipped,4,10,2004,Motorcycles,95,S10_1678,Baane Mini Imports,07-98 9555,Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA,Bergulfsen,Jonas,Medium,,
-10737,1,,11/21/2004 0:00,Shipped,4,11,2004,Motorcycles,95,S10_1678,Diecast Classics Inc.,2155551555,7586 Pompton St.,,Allentown,PA,70267,USA,NA,Yu,Kyung,Medium,,
-10771,9,,1/31/2005 0:00,Shipped,4,11,2004,Motorcycles,95,S10_1678,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Large,,
-10788,13,,3/1/2005 0:00,Shipped,4,12,2004,Motorcycles,95,S10_1678,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small,,
